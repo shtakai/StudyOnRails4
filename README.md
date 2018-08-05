@@ -1,6 +1,8 @@
 StudyOnRails4
 =============
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/StudyOnRails4.svg)](https://www.guardrails.io)
+
 #ドットインストール見ながらRuby on Rails 4入門
 
 [ドットインストール Ruby on Rails 4入門 (全28回)](http://dotinstall.com/lessons/basic_rails_v2)
